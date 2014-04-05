@@ -1,3 +1,9 @@
+/*
+ * Salam \m/
+ * author: Gapra - Galih Pranowo
+ * gapraart@gmail.com
+ * author url: http://www.gapraart.com
+*/
 $(document).ready(function(){
 	$('#gitdownload').css({
 		'opacity': '0.4',
