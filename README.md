@@ -1,2 +1,2 @@
-jQuery-Slide-Menu-Effect
+jQuery-Animate-Menu-Effect
 ========================
