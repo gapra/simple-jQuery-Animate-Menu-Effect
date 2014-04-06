@@ -24,7 +24,7 @@ Load jQuery latest version *(1.9.0 or later)* and script.js on assets directory,
 ```
 Write HTML structure for menu, eg:
 ```html
-<------
+.....
 <div class="menu">
 	<ul>
 		<li><a href="#" class="whoami">who am i</a></li>
@@ -38,14 +38,15 @@ Write HTML structure for menu, eg:
 	<a href="#awesome-menu" class="showmenu">menu</a>
 	<a href="#awesome-menu" class="hidemenu">hide</a>
 	<p>
-		<span class="title-overlay show">Click menu to show effect</span>
-		<span class="title-overlay hide">Click hide to hide menus</span>
+		<span class="title-overlay show">.....</span>
+		<span class="title-overlay hide">.....</span>
 	</p>
 </div>
------>
+.....
 ```
 You can modification animate on *script.js* in section
 ```javascript
+.....
 $('.menu li a.whoami').animate({
 	marginTop : '30px'
 }, 400, function() {
@@ -61,5 +62,6 @@ $('.menu li a.whoami').animate({
 		});
 	});
 });
+.....
 ```
 It's very simple
